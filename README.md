@@ -14,9 +14,11 @@ Welcome to the Flora Snap ~ A Plant Disease Detection App! This Flutter applicat
 
 ## Screenshots
 
-![Screenshot 1](images/ss1.jpg)
-![Screenshot 2](images/ss2.jpg)
-![Screenshot 3](images/ss3.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/ss1.jpg" width="30%">
+  <img src="images/ss2.jpg" width="30%">
+  <img src="images/ss3.jpg" width="30%">
+</div>
 
 ## Getting Started
 
